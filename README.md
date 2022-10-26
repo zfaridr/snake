@@ -1,2 +1,2 @@
 # snake
-snage game on python
+snake game on python
